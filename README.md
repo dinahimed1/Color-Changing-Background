@@ -1,18 +1,14 @@
+# Color Changing Background Assignment 
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Everytime you click on the 'COLOR CHANGE' button, the color of the background changes to a random color
 
 
-Hi there! Welcome to Cloud9 IDE!
+## Features ##
+* Users can click a buttom to perform color changes to background
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
 
-Happy coding!
-The Cloud9 IDE team
+## Built With ##
+* HTML
+* CSS
+* Javascript
+* JQuery

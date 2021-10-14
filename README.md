@@ -1,10 +1,13 @@
-# Color Changing Background Assignment 
+
+###### Code Nation Assignment ######
+
+# Color Changing Background 
 
 Everytime you click on the 'COLOR CHANGE' button, the color of the background changes to a random color
 
 
 ## Features ##
-* Users can click a buttom to perform color changes to background
+* Users can click a button to perform color changes to background
 
 
 ## Built With ##
@@ -12,3 +15,4 @@ Everytime you click on the 'COLOR CHANGE' button, the color of the background ch
 * CSS
 * Javascript
 * JQuery
+
